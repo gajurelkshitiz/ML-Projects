@@ -1,0 +1,10 @@
+We will train our model with following models, and compare the accuracy among them:
+
+1> Linear Regression
+2> Lasso Regression
+3> Decision Tree Regressor
+4> KNN Regressor
+5> RandomForest Regressor
+6> Xgboost Regressor
+7> Hyperparameter Tuning
+8> ANN-Artificial Neural Network
